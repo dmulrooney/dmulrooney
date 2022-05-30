@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @dmulrooney
-- 👀 I’m interested in software development and hardware!
-- 📫 How to reach me: dmulrooney@utexas.edu
+“Inside every large program is a small program struggling to get out.”
+― Tony Hoare
